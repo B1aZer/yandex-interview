@@ -12,5 +12,11 @@
 
 [Tests](tests/)
 
-[Backend (django)](_backend/)
+[Backend (django-rest)](_backend/)
+
+Личные проекты в свободное время:
+
+[PortFolio](https://github.com/B1aZer/Portfolio)
+[ReactShop](https://github.com/B1aZer/react_shop)
+[DotaStack](https://github.com/B1aZer/DotaStack)
 
